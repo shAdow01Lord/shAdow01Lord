@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajeev Singh
 - 👀 I’m interested in competative programming, frontend web development.
--🌱 I’m currently learning React,MongoDB,Express,NodeJs
+- 🌱 I’m currently learning React,MongoDB,Express,NodeJs
 - 📫 How to reach me singhrajeevranjan404@gmail.com
 
 <!---
