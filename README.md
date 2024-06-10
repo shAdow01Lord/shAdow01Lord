@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajeev Ranjan Singh</h1>
-<h3 align="center">A passionate full stack developer who is willing to contribute to anything possible in his reach.</h3>
+<h3 align="center">Passionate Full Stack Developer | Code Enthusiast | Bridging Frontend and Backend with Innovation.</h3>
 
 - 🌱 I’m currently learning **Next JS, NLP, LLM, AWS, Linux**
 
-- 💬 Ask me about **MERN Stack, Machine Learning, Data Analysis**
+- 💬 Ask me about **Web Development ( Mern Stack ), Machine Learning, Data Analysis, Cloud Technologies**
 
 - 📫 How to reach me **rajeev20010702@gmail.com**
 
-- ⚡ Fun fact **I think........**
+- ⚡ Fun fact **The first computer virus, called 'Creeper,' was created as an experiment in the early 1970s. It displayed the message, 'I'm the creeper: catch me if you can!' and wasn't malicious—just a playful program hopping between computers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
